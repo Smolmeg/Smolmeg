@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smolmeg
-- 👀 I’m interested in Music, Computers, Woodworking, umm... a lot...
-- 🌱 I’m currently learning Python (gpiozero specifically)
-- 💞️ I’m looking to collaborate on any gpiozero projects
-- 📫 How to reach me on discord at Smolmeg#9505
+- 👀 I’m interested in Music, Computers, umm... a lot...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any easy python projects
+- 📫 How to reach me on discord at ilex_forest#9505
